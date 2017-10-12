@@ -1,4 +1,4 @@
-package io.evan.uikit.lib;
+package io.evan.tinyuikit.lib;
 
 import org.junit.Test;
 

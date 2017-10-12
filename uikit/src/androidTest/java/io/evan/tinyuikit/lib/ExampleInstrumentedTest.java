@@ -1,4 +1,4 @@
-package io.evan.uikit.lib;
+package io.evan.tinyuikit.lib;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("io.evan.uikit.lib.test", appContext.getPackageName());
+        assertEquals("io.evan.tinyuikit.lib.test", appContext.getPackageName());
     }
 }
